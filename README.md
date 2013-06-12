@@ -1,6 +1,6 @@
 # MeinKraftvolles Leben*
 
-A minecraft mod-packish recipe for moar magic but still science. 
+A minecraft mod-packish/recipe idea for moar magic but still science. 
 
 
 ## Included Mods 
