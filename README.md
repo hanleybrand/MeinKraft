@@ -59,6 +59,10 @@ http://www.minecraftforum.net/topic/1090288-152-extrabiomesxl-3134/
 
 http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads&s[]=modpack
 
+    License: "You are free to add Forestry to your modpack and redistribute it, as long as the modpack is 
+    strictly non-profit and none of the other mods are included against their license. 
+    Yes, this even applies to packs made by people I don't like."
+
 ### MagicBees
 
 http://www.minecraftforum.net/topic/1627856-magic-bees-magic-themed-bees-for-forestry-the-successor-to-thaumicbees/
