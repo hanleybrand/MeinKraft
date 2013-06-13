@@ -100,5 +100,7 @@ Note this may mean that Thaumic/Magic Bees get yanked.
 
 ### RopesPlus 
 
-Permission
+Permission required - will ask, but author requires that a modpack include a mod by the modpack author, so we'll see. 
+
+
  \* mit Zauberkunst, Maschinen und Werkzeuge
